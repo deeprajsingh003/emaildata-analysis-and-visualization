@@ -34,29 +34,31 @@ The project runs in three sequential stages:
 
 ### 🔹 Loading and Modeling Email Data Project Screenshots
 *Screenshot 1*
-![alt text](<Screenshot 1.png>)
+<img width="1365" height="714" alt="Screenshot 1" src="https://github.com/user-attachments/assets/a5dcd4b2-5565-4756-9cbb-6aec5677920b" />
 
 *Screenshot 2*
-![alt text](<Screenshot 2.png>)
+<img width="1365" height="444" alt="Screenshot 2" src="https://github.com/user-attachments/assets/3a9d50a4-4c79-4859-a067-714b52619a0f" />
 
 *Screenshot 3*
-![alt text](<Screenshot 3.png>)
+<img width="1365" height="719" alt="Screenshot 3" src="https://github.com/user-attachments/assets/5fe96e38-6837-4042-a528-0a2aaebfae02" />
 
 *Screenshot 4*
-![alt text](<Screenshot 4.png>)
+<img width="1365" height="265" alt="Screenshot 4" src="https://github.com/user-attachments/assets/32e85df2-822a-4495-90bd-482a1caccf2b" />
+
 
 ### 🔹 Visualizing Email Data Projects Screenshots
 *Screenshot 1*
-![alt text](<Screenshot 1-1.png>)
+<img width="1365" height="457" alt="Screenshot 1" src="https://github.com/user-attachments/assets/93a54414-3906-41bd-b1a1-3c1ece6eaacb" />
 
 *Screenshot 2*
-![alt text](<Screenshot 2-1.png>)
+<img width="1278" height="678" alt="Screenshot 2" src="https://github.com/user-attachments/assets/f5a7babb-d8c2-49a2-8d19-f9840f4930e5" />
 
 *Screenshot 3*
-![alt text](<Screenshot 3-1.png>)
+<img width="1287" height="626" alt="Screenshot 3" src="https://github.com/user-attachments/assets/51c5173b-17b3-453e-b791-0143ef7b588c" />
 
 *Screenshot 4*
-![alt text](<Screenshot 4-1.png>)
+<img width="1293" height="614" alt="Screenshot 4" src="https://github.com/user-attachments/assets/8f653df9-764e-4eb8-af60-885ae8f53ee9" />
+
 ---
 ## 🛠️ Tech Stack
 * **Python:** Data Extraction & Processing
