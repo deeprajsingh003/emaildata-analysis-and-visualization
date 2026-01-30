@@ -81,4 +81,4 @@ The project runs in three sequential stages:
 This is a **guided academic project**.  
 I executed all steps independently by following course instructions and example videos,customized parameters, explored optional extensions, and documented results honestly.
 
-The focus of this project was understanding **end-to-end data workflows** rather than claiming original algorithm design.
+The focus of this project was understanding **end-to-end data workflows** rather than claiming original algorithm designs.
