@@ -17,7 +17,6 @@ subjects = dict()
 for message_row in cur :
     subjects[message_row[0]] = message_row[1]
 
-# cur.execute('SELECT id, guid,sender_id,subject_id,headers,body FROM Messages')
 cur.execute('SELECT id, guid,sender_id,subject_id,sent_at FROM Messages')
 messages = dict()
 for message_row in cur :
