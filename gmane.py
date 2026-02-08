@@ -22,7 +22,7 @@ def parsemaildate(md) :
     except:
         pass
 
-    # Non-dateutil version - we try our best
+    # Non-dateutil version  we try our best
 
     pieces = md.split()
     notz = " ".join(pieces[:4]).strip()
