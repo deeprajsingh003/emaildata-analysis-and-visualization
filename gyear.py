@@ -4,7 +4,7 @@ import urllib.request, urllib.parse, urllib.error
 import zlib
 
 conn = sqlite3.connect('index.sqlite')
-cur = conn.cursor(
+cur = conn.cursor()
 
 cur.execute('SELECT id, sender FROM Senders')
 senders = dict()
