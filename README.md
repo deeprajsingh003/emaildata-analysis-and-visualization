@@ -2,7 +2,7 @@
 ---
 ## 📌 Project Overview
 
-This project is based on the **Capstone: Retrieving, Processing, and Visualizing Data with Python** from the **Python for Everybody Specialization (University of Michigan)**.
+This project is based on the **Capstone: Retrieving, Processing, ,& Visualizing Data with Python** from the **Python for Everybody Specialization (University of Michigan)**.
 
 The goal of the project is to download, clean, model, analyze, and visualize real-world email data from the Sakai open-source community
 
