@@ -16,7 +16,7 @@ The project runs in three sequential stages:
 ---
 ### 1. Data Extraction (`gmane.py`)
 * Connects to a mailing list archive (e.g., Sakai Developer List).
-* Scrapes raw email metadata and bodies.
+* Scrapes raw email metadata & bodies.
 * Stores raw data in `content.sqlite`.
 ---
 ### 2. Data Modeling (`gmodel.py`)
