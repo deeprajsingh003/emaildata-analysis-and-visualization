@@ -4,7 +4,7 @@
 
 This project is based on the **Capstone: Retrieving, Processing,& Visualizing Data with Python** from the **Python for Everybody Specialization (University of Michigan)**.
 
-The goal of the project is to download, clean, model, analyze, and visualize real-world email data from the Sakai open-source community
+The goal of the project is to download, clean, model, analyze, & visualize real-world email data from the Sakai open-source community
 
 Developed as part of the **"Python for Everybody" Capstone** (University of Michigan), this toolset allows for:
 1.  **Crawling** archived email data.
