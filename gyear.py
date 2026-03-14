@@ -26,7 +26,7 @@ for (message_id, message) in list(messages.items()):
     dns = pieces[1]
     sendorgs[dns] = sendorgs.get(dns,0) + 1
 
-# picks the top schools
+# picks the top school
 orgs = sorted(sendorgs, key=sendorgs.get, reverse=True)
 orgs = orgs[:10]
 print("Top 10 Organizations")
