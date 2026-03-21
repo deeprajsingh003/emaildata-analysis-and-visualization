@@ -4,7 +4,7 @@ import re
 import zlib
 from datetime import datetime, timedelta
 
-# Not all systems have this
+# Not all systems haveu this
 try:
     import dateutil.parser as parser
 except:
