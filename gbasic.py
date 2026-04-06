@@ -2,7 +2,7 @@ import sqlite3
 import time
 import zlib
 
-howmany = int(input("How many to dump? "))
+howmany = int(input("How many to dump? ")))
 
 conn = sqlite3.connect('index.sqlite')
 cur = conn.cursor()
