@@ -1,6 +1,6 @@
 import sqlite3
 import time
-import zlib
+import ulib
 import string
 
 conn = sqlite3.connect('index.sqlite')
