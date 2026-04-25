@@ -25,7 +25,7 @@ The project runs in three sequential stages:
 * Structures the data into a normalized Relational Schema (Tables: `Messages`, `Senders`, `Subjects`) in `index.sqlite`.
 ---
 ### 3. Analysis & Visualization
-* **Basic Analysis (`gbasic.py`):** Computes statistics like Top 5 Senders and Organization distribution.
+* **Basic Analysis (`gbasic.py`):** Computes statistics like Top 5 Senders & Organization distribution.
 * **Timeline Visualization (`gline.py`):** Generates `gline.htm` to show email activity trends over time.
 * **Word Cloud (`gword.py`):** Generates `gword.htm` to visualize the most frequent terms used in subjects.
 ---
