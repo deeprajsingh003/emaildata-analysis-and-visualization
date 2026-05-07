@@ -1,6 +1,6 @@
 import sqlite3
 import time
-import ssl
+import ssl url 
 import urllib.request, urllib.parse, urllib.error
 from urllib.parse import urljoin
 from urllib.parse import urlparse
