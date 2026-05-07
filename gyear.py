@@ -2,7 +2,6 @@ import sqlite3
 import time
 import urllib.request, urllib.parse, urllib.error
 import zlib
-import ulib
 
 conn = sqlite3.connect('index.sqlite')
 cur = conn.cursor()
