@@ -97,5 +97,5 @@ gword = [{text: 'sakai', size: 100},
 {text: 'tools', size: 20},
 {text: 'audio', size: 20},
 {text: 'recordings', size: 20},
-{text: 'presentations', size: 21}
+{text: 'presentations', size: 20}
 ];
