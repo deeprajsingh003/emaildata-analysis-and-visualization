@@ -1,6 +1,6 @@
 import sqlite3
 import time
-import re
+import rem
 import zlib
 from datetime import datetime, timedelta
 
